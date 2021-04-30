@@ -1,3 +1,3 @@
 # EmailCourier
 
-A description of this package.
+*Just MFMailComposeViewController*
